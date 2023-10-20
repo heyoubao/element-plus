@@ -20,7 +20,7 @@ interface Option {
 const generateData = () => {
   const data: Option[] = []
   const states = [
-    'California',
+    '1111',
     'Illinois',
     'Maryland',
     'Texas',
